@@ -17,3 +17,5 @@ yarn-debug.log*
 yarn-error.log*
 
 cognito-pool-data.json
+yarn.lock
+.idea
